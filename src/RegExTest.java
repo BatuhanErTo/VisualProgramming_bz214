@@ -37,10 +37,5 @@ public class RegExTest {
         Pattern pattern = Pattern.compile(regex);
         Matcher matcher = pattern.matcher(html);
         //System.out.println(matcher.matches());// if it matches completely then returns true
-
-        int count = 0;
-        while ((matcher.find())){
-
-        }
     }
 }
