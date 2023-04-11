@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02a25f74-94d3-49b1-968d-16054ca3d28f" name="Changes" comment="week 1,2 and 3">
-      <change afterPath="$PROJECT_DIR$/src/RegExAssignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RegExAssignment2.java" afterDir="false" />
+    <list default="true" id="02a25f74-94d3-49b1-968d-16054ca3d28f" name="Changes" comment="week3 regex assignments has been finished">
+      <change afterPath="$PROJECT_DIR$/src/ArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiDimArrayDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,16 +51,30 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RegExAssignment2">
-    <configuration name="Isogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Isogram" />
+  <component name="RunManager" selected="Application.Matrix">
+    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayDemo" />
       <module name="VisualProgramming_bz214" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegExAssignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RegExAssignment1" />
+    <configuration name="ArrayDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayDemo2" />
+      <module name="VisualProgramming_bz214" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayFunc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayFunc" />
+      <module name="VisualProgramming_bz214" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Matrix" />
       <module name="VisualProgramming_bz214" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,27 +87,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegExTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RegExTest" />
-      <module name="VisualProgramming_bz214" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringTest" />
-      <module name="VisualProgramming_bz214" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Matrix" />
+        <item itemvalue="Application.ArrayFunc" />
+        <item itemvalue="Application.ArrayDemo2" />
+        <item itemvalue="Application.ArrayDemo" />
         <item itemvalue="Application.RegExAssignment2" />
-        <item itemvalue="Application.RegExAssignment1" />
-        <item itemvalue="Application.RegExTest" />
-        <item itemvalue="Application.StringTest" />
-        <item itemvalue="Application.Isogram" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +110,8 @@
       <workItem from="1680604018142" duration="1838000" />
       <workItem from="1680610930212" duration="4747000" />
       <workItem from="1681135692917" duration="6964000" />
-      <workItem from="1681153349598" duration="2022000" />
+      <workItem from="1681153349598" duration="2577000" />
+      <workItem from="1681205202944" duration="9766000" />
     </task>
     <task id="LOCAL-00001" summary="week 1,2 and 3">
       <created>1681142865591</created>
@@ -117,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681142865591</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="week3 regex assignments has been finished">
+      <created>1681155536811</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681155536811</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +136,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="week 1,2 and 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 1,2 and 3" />
+    <MESSAGE value="week3 regex assignments has been finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="week3 regex assignments has been finished" />
   </component>
 </project>
