@@ -4,13 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02a25f74-94d3-49b1-968d-16054ca3d28f" name="Changes" comment="week4 assignment">
-      <change afterPath="$PROJECT_DIR$/src/BlockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Complex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImmutableComplex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OverloadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VarArgsDemo.java" afterDir="false" />
+    <list default="true" id="02a25f74-94d3-49b1-968d-16054ca3d28f" name="Changes" comment="week5">
+      <change afterPath="$PROJECT_DIR$/resource/source.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/target.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompanyExample/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompanyExample/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompanyExample/HourlyEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompanyExample/SalariedEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HidingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReCap/BottomClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReCap/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReCap/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReCap/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReCap/Undergrad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReCap/VarArgPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReCap/VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReCap/ZooKeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReplaceText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WebCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deneme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,35 +53,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "D:/VisualProgramming/VisualProgramming_bz214",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.VarArgsDemo">
-    <configuration name="ArrayDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayDemo2" />
-      <module name="VisualProgramming_bz214" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayFunc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayFunc" />
-      <module name="VisualProgramming_bz214" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.WebCrawler">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo" />
       <module name="VisualProgramming_bz214" />
@@ -75,15 +77,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Matrix" />
+    <configuration name="ReplaceText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplaceText" />
       <module name="VisualProgramming_bz214" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarArgsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VarArgsDemo" />
+    <configuration name="SubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReCap.SubClass" />
+      <module name="VisualProgramming_bz214" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReCap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReCap.Test" />
+      <module name="VisualProgramming_bz214" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReCap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WebCrawler" />
       <module name="VisualProgramming_bz214" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VarArgsDemo" />
+        <item itemvalue="Application.WebCrawler" />
+        <item itemvalue="Application.ReplaceText" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SubClass" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Matrix" />
-        <item itemvalue="Application.ArrayFunc" />
-        <item itemvalue="Application.ArrayDemo2" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +143,15 @@
       <workItem from="1681153349598" duration="2577000" />
       <workItem from="1681205202944" duration="9766000" />
       <workItem from="1681226628324" duration="100000" />
-      <workItem from="1681815254778" duration="6593000" />
+      <workItem from="1681815254778" duration="7301000" />
+      <workItem from="1683037163110" duration="56000" />
+      <workItem from="1683037249240" duration="123000" />
+      <workItem from="1683037529779" duration="31000" />
+      <workItem from="1683049942258" duration="4271000" />
+      <workItem from="1683101551976" duration="5224000" />
+      <workItem from="1683119223954" duration="2553000" />
+      <workItem from="1684066620778" duration="23000" />
+      <workItem from="1684234826681" duration="6313000" />
     </task>
     <task id="LOCAL-00001" summary="week 1,2 and 3">
       <created>1681142865591</created>
@@ -145,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681226702341</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="week5">
+      <created>1681824567740</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681824567740</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +200,104 @@
     <MESSAGE value="week3 regex assignments has been finished" />
     <MESSAGE value="week4" />
     <MESSAGE value="week4 assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="week4 assignment" />
+    <MESSAGE value="week5" />
+    <option name="LAST_COMMIT_MESSAGE" value="week5" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/deneme.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/deneme.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReCap/SubClass.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReCap/SuperClass.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReCap/ZooKeeper.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReCap/ZooKeeper.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReCap/ZooKeeper.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReCap/ZooKeeper.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/deneme.java</url>
+          <line>10</line>
+          <properties class="Derived" method="printInfo">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/deneme.java</url>
+          <line>13</line>
+          <properties class="Derived" method="printAll">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/deneme.java</url>
+          <line>4</line>
+          <properties class="Base" method="printAll">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/deneme.java</url>
+          <line>1</line>
+          <properties class="Base" method="printInfo">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ReCap/SubClass.java</url>
+          <line>3</line>
+          <properties class="ReCap.SubClass" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/ReCap/ZooKeeper.java</url>
+          <line>2</line>
+          <properties field="name" class="ReCap.Mammal" />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
