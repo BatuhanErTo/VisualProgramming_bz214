@@ -1,3 +1,5 @@
+import CompanyExample.Utils;
+
 import java.util.Arrays;
 
 public class ArrayDemo {
@@ -23,7 +25,6 @@ public class ArrayDemo {
         String[] names3 = Arrays.copyOfRange(list2,0,2);
 
          */
-
         int[] scores = new int[3];
         scores[0] = 2;
         scores[1] = 4;

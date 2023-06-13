@@ -1,8 +1,8 @@
 package CompanyExample;
 
-import java.security.PublicKey;
+
 import java.time.LocalDate;
-/**
+
 public class SalariedEmployee extends Employee{
     private double annualSalary;
     private final static int MONTH = 12;
@@ -15,15 +15,8 @@ public class SalariedEmployee extends Employee{
     public double getAnnualSalary() {
         return annualSalary;
     }
-
-    public double monthlyPay(){
+    @Override
+    public double mounthlyPay() {
         return annualSalary/MONTH;
     }
-
-    public void disallowZeroAndNegatives(double ... args){
-        for(double arg:args)
-            if(arg <= 0)
-                throw new IllegalArgumentException("Zero or Negative Argument");
-    }
 }
-**/

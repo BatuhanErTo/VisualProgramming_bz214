@@ -1,7 +1,7 @@
 package CompanyExample;
 
 import java.time.LocalDate;
-/**
+
 public class HourlyEmployee extends Employee{
     private double monthlyHours;
     private double hourlyWage;
@@ -9,9 +9,14 @@ public class HourlyEmployee extends Employee{
         this(name, hireDate,200.0,20.0);
     }
 
+    @Override
+    public double mounthlyPay() {
+        return hourlyWage*monthlyHours;
+    }
+
     public HourlyEmployee(String name, LocalDate hireDate, double monthlyHours, double hourlyWage) {
         super(name, hireDate);
-        disallowZeroAndNegatives(monthlyHours,hourlyWage);
+        Utils.disallowZeroAndNegatives(monthlyHours,hourlyWage);
         this.monthlyHours = monthlyHours;
         this.hourlyWage = hourlyWage;
     }
@@ -34,13 +39,5 @@ public class HourlyEmployee extends Employee{
     public boolean equals(Object obj) {
         return super.equals(obj);
     }
-    public double monthlyPay(){
-        return hourlyWage*monthlyHours;
-    }
-    public void disallowZeroAndNegatives(double ... args){
-        for(double arg:args)
-            if(arg <= 0)
-                throw new IllegalArgumentException("Zero or Negative Argument");
-    }
+
 }
-**/
