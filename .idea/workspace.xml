@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02a25f74-94d3-49b1-968d-16054ca3d28f" name="Changes" comment="week6-7-8">
-      <change afterPath="$PROJECT_DIR$/img/batuhanerto.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CompanyExample/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestFileClass.java" afterDir="false" />
+    <list default="true" id="02a25f74-94d3-49b1-968d-16054ca3d28f" name="Changes" comment="UPDATED">
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PersonAgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/GenericStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CompanyExample/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CompanyExample/Company.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CompanyExample/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CompanyExample/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CompanyExample/HourlyEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CompanyExample/HourlyEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CompanyExample/SalariedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CompanyExample/SalariedEmployee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +137,8 @@
       <workItem from="1684234826681" duration="6524000" />
       <workItem from="1684252318110" duration="10000" />
       <workItem from="1684749341175" duration="5324000" />
-      <workItem from="1686675156781" duration="754000" />
+      <workItem from="1686675156781" duration="1139000" />
+      <workItem from="1687694487569" duration="2054000" />
     </task>
     <task id="LOCAL-00001" summary="week 1,2 and 3">
       <created>1681142865591</created>
@@ -186,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684246113818</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="UPDATED">
+      <created>1686676281495</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686676281495</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +203,8 @@
     <MESSAGE value="week4 assignment" />
     <MESSAGE value="week5" />
     <MESSAGE value="week6-7-8" />
-    <option name="LAST_COMMIT_MESSAGE" value="week6-7-8" />
+    <MESSAGE value="UPDATED" />
+    <option name="LAST_COMMIT_MESSAGE" value="UPDATED" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
